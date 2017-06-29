@@ -1,2 +1,0 @@
-# millsdjbot
-Discord WIP
