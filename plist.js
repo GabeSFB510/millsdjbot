@@ -1,3 +1,3 @@
 $("li").click(function(){
-  $(this).clone(true).appendTo("b");
+  $("b").append($(this).text());
 });
